@@ -1,0 +1,5 @@
+F:\classexercise\array\array\bin\Debug\array.exe.config
+F:\classexercise\array\array\bin\Debug\array.exe
+F:\classexercise\array\array\bin\Debug\array.pdb
+F:\classexercise\array\array\obj\Debug\array.exe
+F:\classexercise\array\array\obj\Debug\array.pdb

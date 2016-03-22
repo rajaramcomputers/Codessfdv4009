@@ -1,0 +1,5 @@
+F:\classexercise\typeConvert\typeConvert\bin\Debug\typeConvert.exe.config
+F:\classexercise\typeConvert\typeConvert\bin\Debug\typeConvert.exe
+F:\classexercise\typeConvert\typeConvert\bin\Debug\typeConvert.pdb
+F:\classexercise\typeConvert\typeConvert\obj\Debug\typeConvert.exe
+F:\classexercise\typeConvert\typeConvert\obj\Debug\typeConvert.pdb

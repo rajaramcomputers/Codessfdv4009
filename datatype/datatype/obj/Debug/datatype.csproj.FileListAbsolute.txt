@@ -1,0 +1,5 @@
+F:\classexercise\datatype\datatype\bin\Debug\datatype.exe.config
+F:\classexercise\datatype\datatype\bin\Debug\datatype.exe
+F:\classexercise\datatype\datatype\bin\Debug\datatype.pdb
+F:\classexercise\datatype\datatype\obj\Debug\datatype.exe
+F:\classexercise\datatype\datatype\obj\Debug\datatype.pdb

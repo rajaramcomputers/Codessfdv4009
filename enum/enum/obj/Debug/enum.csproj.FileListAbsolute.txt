@@ -1,0 +1,5 @@
+F:\classexercise\enum\enum\bin\Debug\@enum.exe.config
+F:\classexercise\enum\enum\bin\Debug\@enum.exe
+F:\classexercise\enum\enum\bin\Debug\@enum.pdb
+F:\classexercise\enum\enum\obj\Debug\@enum.exe
+F:\classexercise\enum\enum\obj\Debug\@enum.pdb

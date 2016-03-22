@@ -1,0 +1,6 @@
+F:\classexercise\ParamExample\ParamExample\bin\Debug\ParamExample.exe.config
+F:\classexercise\ParamExample\ParamExample\bin\Debug\ParamExample.exe
+F:\classexercise\ParamExample\ParamExample\bin\Debug\ParamExample.pdb
+F:\classexercise\ParamExample\ParamExample\obj\Debug\ParamExample.csprojResolveAssemblyReference.cache
+F:\classexercise\ParamExample\ParamExample\obj\Debug\ParamExample.exe
+F:\classexercise\ParamExample\ParamExample\obj\Debug\ParamExample.pdb

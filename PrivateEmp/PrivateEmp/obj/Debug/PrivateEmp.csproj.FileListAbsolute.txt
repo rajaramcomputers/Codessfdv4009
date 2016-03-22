@@ -1,0 +1,6 @@
+F:\classexercise\PrivateEmp\PrivateEmp\bin\Debug\PrivateEmp.exe.config
+F:\classexercise\PrivateEmp\PrivateEmp\bin\Debug\PrivateEmp.exe
+F:\classexercise\PrivateEmp\PrivateEmp\bin\Debug\PrivateEmp.pdb
+F:\classexercise\PrivateEmp\PrivateEmp\obj\Debug\PrivateEmp.csprojResolveAssemblyReference.cache
+F:\classexercise\PrivateEmp\PrivateEmp\obj\Debug\PrivateEmp.exe
+F:\classexercise\PrivateEmp\PrivateEmp\obj\Debug\PrivateEmp.pdb

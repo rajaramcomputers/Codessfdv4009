@@ -1,0 +1,6 @@
+F:\classexercise\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.exe.config
+F:\classexercise\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.csprojResolveAssemblyReference.cache
+F:\classexercise\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.exe
+F:\classexercise\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.pdb
+F:\classexercise\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.exe
+F:\classexercise\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.pdb

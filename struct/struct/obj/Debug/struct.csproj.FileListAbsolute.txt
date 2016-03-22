@@ -1,0 +1,5 @@
+F:\classexercise\struct\struct\bin\Debug\@struct.exe.config
+F:\classexercise\struct\struct\bin\Debug\@struct.exe
+F:\classexercise\struct\struct\bin\Debug\@struct.pdb
+F:\classexercise\struct\struct\obj\Debug\@struct.exe
+F:\classexercise\struct\struct\obj\Debug\@struct.pdb

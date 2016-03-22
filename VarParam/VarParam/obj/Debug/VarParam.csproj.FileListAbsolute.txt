@@ -1,0 +1,5 @@
+F:\classexercise\VarParam\VarParam\bin\Debug\VarParam.exe.config
+F:\classexercise\VarParam\VarParam\bin\Debug\VarParam.exe
+F:\classexercise\VarParam\VarParam\bin\Debug\VarParam.pdb
+F:\classexercise\VarParam\VarParam\obj\Debug\VarParam.exe
+F:\classexercise\VarParam\VarParam\obj\Debug\VarParam.pdb

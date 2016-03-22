@@ -1,0 +1,5 @@
+F:\classexercise\stringapp\stringapp\bin\Debug\stringapp.exe.config
+F:\classexercise\stringapp\stringapp\bin\Debug\stringapp.exe
+F:\classexercise\stringapp\stringapp\bin\Debug\stringapp.pdb
+F:\classexercise\stringapp\stringapp\obj\Debug\stringapp.exe
+F:\classexercise\stringapp\stringapp\obj\Debug\stringapp.pdb
